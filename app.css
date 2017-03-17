@@ -1,0 +1,23 @@
+h1 {
+	border: 2px solid rgb(00,000,255);
+	color: #189bc7;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+}
+
+li {
+	color: green;
+}
+
+h4 {
+	background: rgb(255,100,80);
+	color: #0022f2;
+}
+
+body {
+	background: pink;
+	/*background: url(https://newevolutiondesigns.com/images/freebies/galaxy-ipad-wallpaper-21.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
