@@ -11,8 +11,8 @@ body {
 }
 
 .date {
-	letter-spacing: .3em;
 	color: #0881A3;
+	letter-spacing: .3em;
 	text-transform: uppercase;
 }
 
@@ -26,6 +26,6 @@ body {
 }
 
 hr {
-	border-top: 3px double #8c8b8b;
+	border-bottom: 3px double #8c8b8b;
 	width: 90%;
 }
