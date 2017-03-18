@@ -1,0 +1,16 @@
+img {
+	float: left;
+	margin: 1.66%;
+	width: 30%;
+}
+ 
+p {
+	border-bottom: 2px solid #F00;
+	font-family: 'Fira Sans Condensed', sans-serif;
+	font-size: 23px;
+	font-weight: 700;
+	margin-left: 1.66%;
+	padding-bottom: 20px;
+	text-transform: uppercase;
+	width: 30%;
+}
