@@ -6,13 +6,16 @@ body {
 	border: 20px solid #1F4E5F;
 	background-color: #F9F8ED;
 	font-family: 'Source Sans Pro', sans-serif;
-	margin: 0 auto;
+	margin: 20px auto;
+	max-width: 700px;
 	width: 80%;
 }
 
 .date {
 	color: #0881A3;
-	letter-spacing: .3em;
+	letter-spacing: 0.3rem;
+	margin-top: 0;
+	padding-top: 0;
 	text-transform: uppercase;
 }
 
@@ -27,5 +30,10 @@ body {
 
 hr {
 	border-bottom: 3px double #8c8b8b;
+	margin-top: 50px;
 	width: 90%;
+}
+
+h2 {
+	font-size: 2.0rem;
 }
